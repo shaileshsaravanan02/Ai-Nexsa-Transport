@@ -1,17 +1,13 @@
 {
-  "name": "transport-bi-platform",
+  "name": "@transport-bi/shared",
   "version": "1.0.0",
-  "private": true,
-  "workspaces": [
-    "apps/*",
-    "packages/*",
-    "server"
-  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "dev:web": "npm run dev --workspace=@transport-bi/web",
-    "dev:server": "npm run dev --workspace=@transport-bi/server",
-    "dev:mobile": "npm run start --workspace=@transport-bi/mobile",
-    "build:web": "npm run build --workspace=@transport-bi/web",
-    "build:server": "npm run build --workspace=@transport-bi/server"
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
   }
 }

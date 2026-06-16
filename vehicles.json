@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Wagon R", "brand": "Maruti Suzuki", "category": "car",
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=600&q=80",
+    "specifications": { "engine": "1.0L K10C", "fuel": "Petrol/CNG", "seating": 5, "mileage": "24 kmpl" },
+    "exShowroomPrice": 550000, "onRoadPrice": 650000, "insuranceAnnual": 18000, "permitCost": 5000,
+    "fcCost": 1500, "taxAnnual": 8000, "fuelCostMonthly": 8000, "serviceCostMonthly": 1500,
+    "maintenanceCostMonthly": 2000, "driverSalaryMonthly": 0, "tyreCostAnnual": 12000,
+    "unexpectedExpenseMonthly": 2000, "monthlyRevenueEstimate": 45000, "olaDailyIncome": 1200,
+    "uberDailyIncome": 1100, "rapidoDailyIncome": 900, "growthPotential": "High", "riskScore": 25
+  },
+  {
+    "name": "Swift Dzire", "brand": "Maruti Suzuki", "category": "car",
+    "imageUrl": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=600&q=80",
+    "specifications": { "engine": "1.2L", "fuel": "Petrol/CNG", "seating": 5, "mileage": "23 kmpl" },
+    "exShowroomPrice": 720000, "onRoadPrice": 850000, "insuranceAnnual": 22000, "permitCost": 5000,
+    "fcCost": 1500, "taxAnnual": 10000, "fuelCostMonthly": 9000, "serviceCostMonthly": 1800,
+    "maintenanceCostMonthly": 2500, "driverSalaryMonthly": 0, "tyreCostAnnual": 14000,
+    "unexpectedExpenseMonthly": 2500, "monthlyRevenueEstimate": 55000, "olaDailyIncome": 1500,
+    "uberDailyIncome": 1400, "rapidoDailyIncome": 1100, "growthPotential": "High", "riskScore": 22
+  },
+  {
+    "name": "Ertiga", "brand": "Maruti Suzuki", "category": "car",
+    "imageUrl": "https://images.unsplash.com/photo-1519641471654-76ce0107a651?w=600&q=80",
+    "specifications": { "engine": "1.5L", "fuel": "Petrol/CNG", "seating": 7, "mileage": "20 kmpl" },
+    "exShowroomPrice": 950000, "onRoadPrice": 1100000, "insuranceAnnual": 28000, "permitCost": 8000,
+    "fcCost": 2000, "taxAnnual": 12000, "fuelCostMonthly": 12000, "serviceCostMonthly": 2200,
+    "maintenanceCostMonthly": 3000, "driverSalaryMonthly": 18000, "tyreCostAnnual": 18000,
+    "unexpectedExpenseMonthly": 3000, "monthlyRevenueEstimate": 75000, "olaDailyIncome": 2000,
+    "uberDailyIncome": 1900, "rapidoDailyIncome": 0, "growthPotential": "Medium", "riskScore": 30
+  },
+  {
+    "name": "Innova Crysta", "brand": "Toyota", "category": "car",
+    "imageUrl": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=600&q=80",
+    "specifications": { "engine": "2.4L Diesel", "fuel": "Diesel", "seating": 7, "mileage": "14 kmpl" },
+    "exShowroomPrice": 2100000, "onRoadPrice": 2450000, "insuranceAnnual": 45000, "permitCost": 15000,
+    "fcCost": 3000, "taxAnnual": 25000, "fuelCostMonthly": 25000, "serviceCostMonthly": 4000,
+    "maintenanceCostMonthly": 5000, "driverSalaryMonthly": 22000, "tyreCostAnnual": 35000,
+    "unexpectedExpenseMonthly": 5000, "monthlyRevenueEstimate": 120000, "olaDailyIncome": 3500,
+    "uberDailyIncome": 3200, "rapidoDailyIncome": 0, "growthPotential": "High", "riskScore": 35
+  },
+  {
+    "name": "Bolero", "brand": "Mahindra", "category": "car",
+    "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=600&q=80",
+    "specifications": { "engine": "1.5L mHawk", "fuel": "Diesel", "seating": 7, "mileage": "16 kmpl" },
+    "exShowroomPrice": 980000, "onRoadPrice": 1150000, "insuranceAnnual": 30000, "permitCost": 10000,
+    "fcCost": 2000, "taxAnnual": 15000, "fuelCostMonthly": 15000, "serviceCostMonthly": 2500,
+    "maintenanceCostMonthly": 3500, "driverSalaryMonthly": 18000, "tyreCostAnnual": 20000,
+    "unexpectedExpenseMonthly": 3500, "monthlyRevenueEstimate": 65000, "olaDailyIncome": 0,
+    "uberDailyIncome": 0, "rapidoDailyIncome": 0, "growthPotential": "Medium", "riskScore": 28
+  },
+  {
+    "name": "Xylo", "brand": "Mahindra", "category": "car",
+    "imageUrl": "https://images.unsplash.com/photo-1544636331-e26879cd4d9a?w=600&q=80",
+    "specifications": { "engine": "2.5L mDI CRDe", "fuel": "Diesel", "seating": 7, "mileage": "14 kmpl" },
+    "exShowroomPrice": 850000, "onRoadPrice": 980000, "insuranceAnnual": 26000, "permitCost": 8000,
+    "fcCost": 2000, "taxAnnual": 12000, "fuelCostMonthly": 14000, "serviceCostMonthly": 2200,
+    "maintenanceCostMonthly": 3200, "driverSalaryMonthly": 17000, "tyreCostAnnual": 18000,
+    "unexpectedExpenseMonthly": 3000, "monthlyRevenueEstimate": 60000, "growthPotential": "Low", "riskScore": 40
+  },
+  {
+    "name": "Tata Ace", "brand": "Tata", "category": "lcv",
+    "imageUrl": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&q=80",
+    "specifications": { "payload": "750 kg", "fuel": "Diesel", "engine": "702 cc", "mileage": "22 kmpl" },
+    "exShowroomPrice": 580000, "onRoadPrice": 680000, "insuranceAnnual": 20000, "permitCost": 12000,
+    "fcCost": 1500, "taxAnnual": 8000, "fuelCostMonthly": 10000, "serviceCostMonthly": 2000,
+    "maintenanceCostMonthly": 2500, "driverSalaryMonthly": 15000, "tyreCostAnnual": 10000,
+    "unexpectedExpenseMonthly": 2500, "monthlyRevenueEstimate": 55000, "growthPotential": "High", "riskScore": 20
+  },
+  {
+    "name": "Tata Intra", "brand": "Tata", "category": "lcv",
+    "imageUrl": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=600&q=80",
+    "specifications": { "payload": "1000 kg", "fuel": "Diesel", "engine": "1.4L", "mileage": "18 kmpl" },
+    "exShowroomPrice": 850000, "onRoadPrice": 980000, "insuranceAnnual": 25000, "permitCost": 15000,
+    "fcCost": 2000, "taxAnnual": 12000, "fuelCostMonthly": 14000, "serviceCostMonthly": 2500,
+    "maintenanceCostMonthly": 3000, "driverSalaryMonthly": 16000, "tyreCostAnnual": 14000,
+    "unexpectedExpenseMonthly": 3000, "monthlyRevenueEstimate": 70000, "growthPotential": "High", "riskScore": 22
+  },
+  {
+    "name": "Ashok Leyland Dost", "brand": "Ashok Leyland", "category": "lcv",
+    "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&q=80",
+    "specifications": { "payload": "1250 kg", "fuel": "Diesel", "engine": "1.5L", "mileage": "17 kmpl" },
+    "exShowroomPrice": 780000, "onRoadPrice": 900000, "insuranceAnnual": 24000, "permitCost": 14000,
+    "fcCost": 2000, "taxAnnual": 11000, "fuelCostMonthly": 13000, "serviceCostMonthly": 2300,
+    "maintenanceCostMonthly": 2800, "driverSalaryMonthly": 15500, "tyreCostAnnual": 13000,
+    "unexpectedExpenseMonthly": 2800, "monthlyRevenueEstimate": 68000, "growthPotential": "Medium", "riskScore": 25
+  },
+  {
+    "name": "Mahindra Jeeto", "brand": "Mahindra", "category": "lcv",
+    "imageUrl": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=600&q=80",
+    "specifications": { "payload": "600 kg", "fuel": "Diesel", "engine": "625 cc", "mileage": "25 kmpl" },
+    "exShowroomPrice": 420000, "onRoadPrice": 490000, "insuranceAnnual": 15000, "permitCost": 8000,
+    "fcCost": 1200, "taxAnnual": 6000, "fuelCostMonthly": 7000, "serviceCostMonthly": 1500,
+    "maintenanceCostMonthly": 1800, "driverSalaryMonthly": 14000, "tyreCostAnnual": 8000,
+    "unexpectedExpenseMonthly": 2000, "monthlyRevenueEstimate": 42000, "growthPotential": "High", "riskScore": 18
+  },
+  {
+    "name": "Mahindra Supro", "brand": "Mahindra", "category": "lcv",
+    "imageUrl": "https://images.unsplash.com/photo-1586198670217-9f9e76297813?w=600&q=80",
+    "specifications": { "payload": "750 kg", "fuel": "Diesel", "engine": "909 cc", "mileage": "20 kmpl" },
+    "exShowroomPrice": 650000, "onRoadPrice": 750000, "insuranceAnnual": 22000, "permitCost": 10000,
+    "fcCost": 1500, "taxAnnual": 9000, "fuelCostMonthly": 9000, "serviceCostMonthly": 1800,
+    "maintenanceCostMonthly": 2200, "driverSalaryMonthly": 14500, "tyreCostAnnual": 11000,
+    "unexpectedExpenseMonthly": 2200, "monthlyRevenueEstimate": 50000, "growthPotential": "Medium", "riskScore": 24
+  },
+  {
+    "name": "Eicher Pro 2049", "brand": "Eicher", "category": "truck",
+    "imageUrl": "https://images.unsplash.com/photo-1586198670217-9f9e76297813?w=600&q=80",
+    "specifications": { "payload": "3.5 Ton", "fuel": "Diesel", "engine": "3.0L", "mileage": "8 kmpl" },
+    "exShowroomPrice": 1450000, "onRoadPrice": 1680000, "insuranceAnnual": 38000, "permitCost": 25000,
+    "fcCost": 3000, "taxAnnual": 20000, "fuelCostMonthly": 35000, "serviceCostMonthly": 4500,
+    "maintenanceCostMonthly": 6000, "driverSalaryMonthly": 20000, "tyreCostAnnual": 40000,
+    "unexpectedExpenseMonthly": 5000, "monthlyRevenueEstimate": 95000, "growthPotential": "High", "riskScore": 32
+  },
+  {
+    "name": "BharatBenz 1217", "brand": "BharatBenz", "category": "truck",
+    "imageUrl": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&q=80",
+    "specifications": { "payload": "10 Ton", "fuel": "Diesel", "engine": "4.8L", "mileage": "6 kmpl" },
+    "exShowroomPrice": 2800000, "onRoadPrice": 3200000, "insuranceAnnual": 55000, "permitCost": 35000,
+    "fcCost": 4000, "taxAnnual": 35000, "fuelCostMonthly": 55000, "serviceCostMonthly": 6000,
+    "maintenanceCostMonthly": 8000, "driverSalaryMonthly": 25000, "tyreCostAnnual": 60000,
+    "unexpectedExpenseMonthly": 7000, "monthlyRevenueEstimate": 150000, "growthPotential": "High", "riskScore": 38
+  },
+  {
+    "name": "Ashok Leyland Boss", "brand": "Ashok Leyland", "category": "truck",
+    "imageUrl": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=600&q=80",
+    "specifications": { "payload": "7.5 Ton", "fuel": "Diesel", "engine": "4.0L", "mileage": "7 kmpl" },
+    "exShowroomPrice": 2200000, "onRoadPrice": 2550000, "insuranceAnnual": 48000, "permitCost": 30000,
+    "fcCost": 3500, "taxAnnual": 28000, "fuelCostMonthly": 45000, "serviceCostMonthly": 5500,
+    "maintenanceCostMonthly": 7000, "driverSalaryMonthly": 22000, "tyreCostAnnual": 50000,
+    "unexpectedExpenseMonthly": 6000, "monthlyRevenueEstimate": 130000, "growthPotential": "Medium", "riskScore": 35
+  },
+  {
+    "name": "Tata LPT 407", "brand": "Tata", "category": "truck",
+    "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&q=80",
+    "specifications": { "payload": "2.5 Ton", "fuel": "Diesel", "engine": "2.5L", "mileage": "9 kmpl" },
+    "exShowroomPrice": 1200000, "onRoadPrice": 1400000, "insuranceAnnual": 35000, "permitCost": 22000,
+    "fcCost": 2500, "taxAnnual": 18000, "fuelCostMonthly": 30000, "serviceCostMonthly": 4000,
+    "maintenanceCostMonthly": 5000, "driverSalaryMonthly": 18000, "tyreCostAnnual": 35000,
+    "unexpectedExpenseMonthly": 4500, "monthlyRevenueEstimate": 85000, "growthPotential": "High", "riskScore": 30
+  },
+  {
+    "name": "Container Truck 32ft", "brand": "Multi-Brand", "category": "truck",
+    "imageUrl": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=600&q=80",
+    "specifications": { "payload": "9 Ton", "fuel": "Diesel", "container": "32 ft SXL", "mileage": "5 kmpl" },
+    "exShowroomPrice": 3500000, "onRoadPrice": 4000000, "insuranceAnnual": 65000, "permitCost": 45000,
+    "fcCost": 5000, "taxAnnual": 40000, "fuelCostMonthly": 70000, "serviceCostMonthly": 8000,
+    "maintenanceCostMonthly": 10000, "driverSalaryMonthly": 28000, "tyreCostAnnual": 80000,
+    "unexpectedExpenseMonthly": 8000, "monthlyRevenueEstimate": 200000, "growthPotential": "High", "riskScore": 42
+  },
+  {
+    "name": "School Bus", "brand": "Multi-Brand", "category": "bus",
+    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80",
+    "specifications": { "seating": "40-50", "fuel": "Diesel", "type": "School Transport", "mileage": "6 kmpl" },
+    "exShowroomPrice": 2500000, "onRoadPrice": 2900000, "insuranceAnnual": 50000, "permitCost": 40000,
+    "fcCost": 4000, "taxAnnual": 30000, "fuelCostMonthly": 40000, "serviceCostMonthly": 5500,
+    "maintenanceCostMonthly": 7000, "driverSalaryMonthly": 22000, "tyreCostAnnual": 55000,
+    "unexpectedExpenseMonthly": 6000, "monthlyRevenueEstimate": 140000, "growthPotential": "Medium", "riskScore": 30
+  },
+  {
+    "name": "Staff Bus", "brand": "Multi-Brand", "category": "bus",
+    "imageUrl": "https://images.unsplash.com/photo-1570125909232-e097dbadc9d0?w=600&q=80",
+    "specifications": { "seating": "32-40", "fuel": "Diesel", "type": "Corporate Shuttle", "mileage": "7 kmpl" },
+    "exShowroomPrice": 2200000, "onRoadPrice": 2550000, "insuranceAnnual": 45000, "permitCost": 35000,
+    "fcCost": 3500, "taxAnnual": 28000, "fuelCostMonthly": 35000, "serviceCostMonthly": 5000,
+    "maintenanceCostMonthly": 6500, "driverSalaryMonthly": 20000, "tyreCostAnnual": 48000,
+    "unexpectedExpenseMonthly": 5500, "monthlyRevenueEstimate": 125000, "growthPotential": "High", "riskScore": 28
+  },
+  {
+    "name": "Tourist Bus", "brand": "Multi-Brand", "category": "bus",
+    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&q=80",
+    "specifications": { "seating": "45-52", "fuel": "Diesel", "type": "AC Tourist", "mileage": "5 kmpl" },
+    "exShowroomPrice": 4500000, "onRoadPrice": 5200000, "insuranceAnnual": 75000, "permitCost": 55000,
+    "fcCost": 5000, "taxAnnual": 45000, "fuelCostMonthly": 60000, "serviceCostMonthly": 8000,
+    "maintenanceCostMonthly": 10000, "driverSalaryMonthly": 25000, "tyreCostAnnual": 70000,
+    "unexpectedExpenseMonthly": 8000, "monthlyRevenueEstimate": 220000, "growthPotential": "High", "riskScore": 45
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Transport BI",
+    "slug": "transport-bi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "transportbi",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0a0f1a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.transportbi.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0f1a"
+      },
+      "package": "com.transportbi.app"
+    },
+    "plugins": ["expo-router"]
+  }
+}
